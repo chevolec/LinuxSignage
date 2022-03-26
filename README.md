@@ -6,7 +6,11 @@ Your imagination and knowledge about HTML5/CSS/JavaScript is the limit ;-)
 
 i'ts also a good base for interactive screens, like photo-booth, mp3 jukebox, etc.
 
+### Create a Raspberry Image
+Select the option Raspberry PI OS 32-bit with Desktop enviroment
+
 ### Installing Xorg bare X 
+### If you dont have a desktop enviroment
 ```bash
 sudo apt install -y --no-install-recommends xserver-xorg xserver-xorg-input-evdev 
 ```
