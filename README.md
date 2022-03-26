@@ -67,4 +67,5 @@ after a reboot your html page sould appear.
 
 
 
-
+## BUGS 
+It shows dark squares on the images of the HTML page, im showing. 
